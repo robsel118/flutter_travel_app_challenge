@@ -1,16 +1,9 @@
-# travelapp
+# Travel App Dribble
 
-A new Flutter project.
+A quick recreation of the design found on this Dribble: https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
-## Getting Started
+## Original Design
+![travel_app__background__4x](https://user-images.githubusercontent.com/26892877/58382202-3031b580-7fd0-11e9-971d-f8c57866b6fc.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## My recreation
+![ezgif-2-35d234070ca7](https://user-images.githubusercontent.com/26892877/58382222-5eaf9080-7fd0-11e9-8d2c-c334d2625185.gif)
